@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "772198720708",
+    "project_id": "edav1-adcd0",
+    "storage_bucket": "edav1-adcd0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772198720708:android:1be8c7825c4d83e754d591",
+        "android_client_info": {
+          "package_name": "com.example.eda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcuyZ-aq2zY9h-NDmgEIssXFJoHlre56o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
